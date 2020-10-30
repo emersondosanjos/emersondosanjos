@@ -12,7 +12,7 @@ date_end = ""
 date_start = "2018-10-01"
 description = ""
 organization = "Logo Mais"
-organization_url = "www.emersondosanjos.com.br"
+organization_url = "https://emersondosanjos.netlify.app/"
 title = "Logo Mais"
 url = ""
 [[item]]
