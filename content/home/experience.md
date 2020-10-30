@@ -9,7 +9,7 @@ widget = "experience"
 [[experience]]
 company = "1"
 company_url = "1"
-date_end = ""
+date_end = "1"
 date_start = "2020-10-06T03:00:00+00:00"
 description = "1"
 location = "1"
