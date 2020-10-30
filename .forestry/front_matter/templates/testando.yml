@@ -1,0 +1,53 @@
+---
+label: TESTANDO
+hide_body: true
+fields:
+- type: text
+  name: widget
+  label: widget
+- type: boolean
+  name: headless
+  label: headless
+- type: boolean
+  name: active
+  label: active
+- type: number
+  name: weight
+  label: weight
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subtitle
+  label: subtitle
+- type: text
+  name: date_format
+  label: date_format
+- type: field_group_list
+  name: item
+  label: item
+  fields:
+  - type: text
+    name: organization
+    label: organization
+  - type: text
+    name: organization_url
+    label: organization_url
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: url
+    label: url
+  - type: text
+    name: certificate_url
+    label: certificate_url
+  - type: datetime
+    name: date_start
+    label: date_start
+  - type: text
+    name: date_end
+    label: date_end
+  - type: text
+    name: description
+    label: description
