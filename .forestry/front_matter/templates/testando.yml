@@ -16,7 +16,7 @@ fields:
   label: weight
 - type: text
   name: title
-  label: title
+  label: test1
 - type: text
   name: subtitle
   label: subtitle
