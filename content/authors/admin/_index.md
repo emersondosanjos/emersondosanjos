@@ -3,7 +3,7 @@ title: Emerson Barbosa dos Anjos
 superuser: true
 role: Mestrando Engenharia Mecânica
 organizations:
-- name: Stanford University
+- name: COPPE/UFRJ
   url: ''
 bio: My research interests include heat transfer, mathematical model and programmable
   matter.
