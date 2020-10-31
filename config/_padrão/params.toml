@@ -88,7 +88,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "emersonbanjos@coppe.ufrj.br"
+email = "https://formspree.io/emersonbanjos@coppe.ufrj.br"
 phone = "+55 (81) 9.9844-7348"
 
 # Address
